@@ -16,4 +16,8 @@ def skip_step(starting_foot)
       puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
 end
 
-def 
+def bob_the_reins
+  puts "Holding your arms outin front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
+  puts 
+end
